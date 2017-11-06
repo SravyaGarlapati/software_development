@@ -1,0 +1,240 @@
+Waiting for a connection
+
+Disconnected from central: 00:00:00:00:00:00
+
+Waiting for a connection
+
+Connected to central: e8:75:6b:37:ba:37
+
+
+Brightness Value: 944.00
+	
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 921.00
+
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+ 
+No User Input on Servo 
+
+Brightness Value: 927.00
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0  
+
+No User Input on Servo 
+
+Brightness Value: 879.00
+
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0 
+No User Input on Servo 
+
+Brightness Value: 881.00
+
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0 
+
+No User Input on Servo 
+
+Brightness Value: 75.00
+	
+Magnet Value: 0
+
+
+Magnet Currently On. Value: 0 
+
+Servo will activate and close door 
+
+Servo position: -1
+
+Status: CLOSED 
+
+No User Input on Servo
+
+Brightness Value: 81.00
+	
+Magnet Value: 1
+
+
+Magnet Currently On. Value: 1
+
+Servo will activate and close door
+
+Servo position: -1
+ 
+Status: CLOSED
+
+No User Input on Servo
+
+Brightness Value: 81.00
+
+Magnet Value: 1
+
+
+Magnet Currently On. Value: 1
+
+Servo will activate and close door
+
+Servo position: -1
+ 
+Status: CLOSED 
+
+No User Input on Servo 
+
+Brightness Value: 952.00
+	
+Magnet Value: 1
+
+
+Magnet Currently Off. Value: 1
+
+No User Input on Servo 
+
+Brightness Value: 1023.00
+
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+Servo position: 181
+ 
+Status: OPEN 
+
+Brightness Value: 1023.00
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 926.00
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+Servo position: -1
+ 
+Status: CLOSED 
+
+Brightness Value: 976.00
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 993.00
+	
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 924.00
+
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 1023.00
+	
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 1023.00
+	
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 1023.00
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 975.00
+	
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 822.00
+	
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 856.00
+	
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+
+Brightness Value: 854.00
+
+Magnet Value: 0
+
+
+Magnet Currently Off. Value: 0
+
+No User Input on Servo 
+Disconnected from central: e8:75:6b:37:ba:37
+
+Waiting for a connection
+
+Disconnected from central: 00:00:00:00:00:00
+
+Waiting for a connection
+
+Disconnected from central: 00:00:00:00:00:00
+
+Waiting for a connection
+
+Disconnected from central: 00:00:00:00:00:00
+
+Waiting for a connection
+
+Disconnected from central: 00:00:00:00:00:00
+
